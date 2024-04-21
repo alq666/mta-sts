@@ -1,0 +1,10 @@
+version: STSv1
+mode: testing
+mx: ALT2.ASPMX.L.GOOGLE.com
+mx: ASPMX4.GOOGLEMAIL.com
+mx: ASPMX5.GOOGLEMAIL.com
+mx: ALT1.ASPMX.L.GOOGLE.com
+mx: ASPMX3.GOOGLEMAIL.com
+mx: ASPMX.L.GOOGLE.com
+mx: ASPMX2.GOOGLEMAIL.com
+max_age: 604800
